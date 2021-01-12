@@ -23,7 +23,7 @@ export const slides = [
     <div className="row content-row">
         <div className="col-sm-3">
             <h3>Northwind Graph</h3>
-            <p className="lead">AgensGraph Tutorial: Import, Query, and Modify Graph Data </p>
+            <p className="lead">AgensGraph Tutorial: Import, Query, and Modify Graph Data</p>
         </div>
         <div className="col-sm-9">
             <h4>Before Getting Started!</h4>
@@ -155,7 +155,7 @@ export const slides = [
         <div className="col-sm-3">
             <h3>Import CSV to AgensGraph via COPY</h3>
             <p>
-                COPY Command를 사용하여 CSV데이터를 Table에 적재합니다.... test
+                COPY Command를 사용하여 CSV데이터를 Table에 적재합니다.
             </p>
             <hr />
             <p>
