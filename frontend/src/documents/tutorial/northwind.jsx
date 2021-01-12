@@ -155,7 +155,7 @@ export const slides = [
         <div className="col-sm-3">
             <h3>Import CSV to AgensGraph via COPY</h3>
             <p>
-                COPY Command를 사용하여 CSV데이터를 Table에 적재합니다.
+                COPY Command를 사용하여 CSV데이터를 Table에 적재합니다.... test
             </p>
             <hr />
             <p>
